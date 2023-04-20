@@ -1,12 +1,13 @@
 <img src="https://github.com/EgorRuss/EgorRuss/blob/main/header.png" height="300"/></h1>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Backend+developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Backend+developer)](https://git.io/typing-svg)
+ 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=EgorRuss&theme=cobalt&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EgorRuss&theme=cobalt&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egorruss&theme=dark&show_icons=true)
 
-</div>
-
+</div>  
 <h2 align="left">My skills:</h2>
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)]
