@@ -1,6 +1,11 @@
 <img src="https://github.com/EgorRuss/EgorRuss/blob/main/header.png" height="300"/></h1>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Backend+developer)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=EgorRuss&theme=cobalt&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
 <h2 align="left">My skills:</h2>
 
